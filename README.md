@@ -11,7 +11,7 @@ Right now what we have seen in the market is that we don't have an easy-to-use o
 Just a one tap on the app and you are welcomed to the many functionalities and they are accessible to you Also, it will be having multiple languages local and foreign languages so that it's easy to use with one tap with the help of NLP which we will be using as a plus factor
 
 ## Technology Stack 💻
-#### Reactpwa
+#### React pwa
 #### Javascript
 #### API
 #### Leaflet js
